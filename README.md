@@ -3,7 +3,7 @@ Este repósitório contem os desafios que o candidato a contratação deve reali
 ## Instruções
 1. Faça um fork desse repositório
 2. Implemente o descrito nos Itens Back-end e Front-end (não serão aceitos candidatos que fizerem apenas um dos items)
-3. Faça um Pull request para esse repositório
+3. Faça um Pull request para esse repositório (com nome e sobrenome)
 ## Desafios
 ### Front-end
 1. Replique o layout a seguir
@@ -61,6 +61,9 @@ Cada categoria pode ter vários produtos distintos.
 * Deve ser utilizado o framework Laravel 5.5
 * Deve ser utilizado o framewok (Bootstrap 3 ou 4)
 * É permitido utilizar qualquer pacote que te auxilie além dos recomendados
+* Todos os desafios devem ser realizados dentro de 6 horas
+  * Para contabilizar o tempo, é necessário criar um commit no momento de inicio do projeto, e outro commit ao final
+  * Os candidatos que não fizerem o commit de inicio e fim de projeto, estarão automaticamente desclassificados
 ## Pacotes Recomendados
 * https://github.com/andersao/l5-repository
 * https://github.com/spatie/laravel-activitylog
