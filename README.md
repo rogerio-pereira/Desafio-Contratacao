@@ -64,6 +64,7 @@ Cada categoria pode ter vários produtos distintos.
 * Todos os desafios devem ser realizados dentro de 6 horas
   * Para contabilizar o tempo, é necessário criar um commit no momento de inicio do projeto, e outro commit ao final
   * Os candidatos que não fizerem o commit de inicio e fim de projeto, estarão automaticamente desclassificados
+  * Todo o material de apoio está dentro da pasta Materiais
 ## Pacotes Recomendados
 * https://github.com/andersao/l5-repository
 * https://github.com/spatie/laravel-activitylog
