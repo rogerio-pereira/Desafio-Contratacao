@@ -23,7 +23,7 @@ A loja de cosméticos ACME está lançando seu e-commerce, seus produtos são di
 Cada categoria pode ter vários produtos distintos.
 
 #### Fazer
-1. Você deve criar o banco de dados, inserir as categorias e três produtos de cada categoria de forma automatizada
+1. Você deve criar o banco de dados, inserir as categorias e três produtos de cada categoria de forma automatizada ultilizando factories e seeds
 2. Criar um CRUD para categorias e produtos
   1. Nesse crud deve haver uma opção de busca por codigo ou nome (no mesmo campo) que deve fazer a busca por ajax e trazer o resultado
   2. A cada cadastro, alteração ou exclusão deve ser gerado um log
@@ -59,11 +59,12 @@ Cada categoria pode ter vários produtos distintos.
 * Documentação de Código
 ## Considerações para o teste
 * Deve ser utilizado o framework Laravel 5.5
-* Deve ser utilizado o framewok (Bootstrap 3 ou 4)
+* Deve ser utilizado o framewok Bootstrap (versão 3 ou 4)
 * É permitido utilizar qualquer pacote que te auxilie além dos recomendados
 * Todos os desafios devem ser realizados dentro de 6 horas
   * Para contabilizar o tempo, é necessário criar um commit no momento de inicio do projeto, e outro commit ao final
   * Os candidatos que não fizerem o commit de inicio e fim de projeto, estarão automaticamente desclassificados
+  * O Desafio deve ser entregue até no máximo 08:00 de 03/09/2018, os Pull request após esse horario serão eliminados
 * Todo o material de apoio está dentro da pasta Materiais
 ## Pacotes Recomendados
 * https://github.com/andersao/l5-repository
