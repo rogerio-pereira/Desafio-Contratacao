@@ -36,6 +36,11 @@ Cada categoria pode ter vários produtos distintos.
 7. Deve ser seguido os padrões de codificação PSR-2
 8. Todos os comentários de classe/função devem seguir a sintaxe "DocBlock"
 ## Será avaliado
+### Geral
+* Conhecimento sobre GIT
+* Habilidade de Trabalhar em Home Office sem distrações
+* Foco
+* Cumprimento de prazos apertados
 ### Front-end
 * Conhecimento de HTML 5 e CSS 3
 * Conhecimento do framework Bootstrap
@@ -61,7 +66,8 @@ Cada categoria pode ter vários produtos distintos.
 * Deve ser utilizado o framework Laravel 5.5
 * Deve ser utilizado o framewok Bootstrap (versão 3 ou 4)
 * É permitido utilizar qualquer pacote que te auxilie além dos recomendados
-* Todos os desafios devem ser realizados dentro de 6 horas
+* Todos os desafios devem ser realizados dentro de 8 horas
+  * Nosso desenvolvedor realizou o desafio em 4 horas, como muitos de vocês não tem conhecimento sobre algumas ferramentas dobramos o tempo para o desafio
   * Para contabilizar o tempo, é necessário criar um commit no momento de inicio do projeto, e outro commit ao final
   * Os candidatos que não fizerem o commit de inicio e fim de projeto, estarão automaticamente desclassificados
   * O Desafio deve ser entregue até no máximo 08:00 de 03/09/2018, os Pull request após esse horario serão eliminados
