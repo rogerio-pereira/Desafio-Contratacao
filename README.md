@@ -6,7 +6,7 @@ Este repósitório contem os desafios que o candidato a contratação deve reali
 3. Faça um Pull request para esse repositório (com nome e sobrenome)
 ## Desafios
 ### Front-end
-1. Replique o layout a seguir
+1. Replique o layout dentro da pasta Materiais > Layout.png
 2. Você deve deixá-lo responsivo utilizando o Framework Bootstrap
 3. Crie os efeitos e animações que desejar para que deixe a navegação mais amigável e com uma usabilidade legal
 4. Todo o site deve estar otimizado para SEO, utilizando as tags adequadas
